@@ -1,0 +1,26 @@
+.table-bordered {
+    border: 1px solid #989898 !important;
+}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td{
+	border:1px solid grey !important;
+}
+.table{
+	font-size: 14px;
+	font-weight: 500;
+}
+p{
+	font-weight: 500;
+}
+img.inv-image {
+    width: 45%;
+    height: auto;
+    /* padding-left: 35%; */
+    padding-bottom: 20px;
+    margin-left: 27%;
+}
+.invoice {
+	border-top: 1px solid grey;
+}
+p {
+    margin: 0 0 0px !important;
+}
